@@ -1,0 +1,7 @@
+{
+  "name": "symposi-admin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
